@@ -1,0 +1,51 @@
+_repo: Familiar-Letters-of-John-Adams-and-His-Wife-Abigail-Adams-During-the-Revolutionwith-a-Memoir-__34123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Adams, Abigail
+    aliases:
+    - Smith, Abigail
+    - Adams, Abigail Smith
+    birthdate: 1744
+    deathdate: 1818
+    gutenberg_agent_id: '36792'
+    url: http://www.gutenberg.org/2009/agents/36792
+    wikipedia: http://en.wikipedia.org/wiki/Abigail_Adams
+  - agent_name: Adams, John
+    aliases:
+    - Novanglus
+    - United States President (1797-1801)
+    birthdate: 1735
+    deathdate: 1826
+    gutenberg_agent_id: '4660'
+    url: http://www.gutenberg.org/2009/agents/4660
+    wikipedia: http://en.wikipedia.org/wiki/John_Adams
+  editor:
+    agent_name: Adams, Charles Francis
+    alias: Adams, C. F. (Charles Francis)
+    birthdate: 1807
+    deathdate: 1886
+    gutenberg_agent_id: '40700'
+    url: http://www.gutenberg.org/2009/agents/40700
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Adams,_Sr.
+description: ''
+gutenberg_issued: '2010-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Correspondence'
+- !lcc 'E300'
+- !lcsh 'Adams, John, 1735-1826 -- Correspondence'
+- !lcsh 'Adams, Abigail, 1744-1818 -- Correspondence'
+title: 'Familiar Letters of John Adams and His Wife Abigail Adams During the Revolution
+
+  with a Memoir of Mrs. Adams'
+url: http://www.gutenberg.org/ebooks/34123
