@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40700
     wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Adams,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34123#Familiar-Letters-of-John-Adams-and-His-Wife-Abigail-Adams-During-the-Revolutionwith-a-Memoir-_
 gutenberg_issued: '2010-10-24'
 gutenberg_type: Text
 identifiers:
